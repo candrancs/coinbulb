@@ -1,0 +1,5 @@
+<?
+
+$UserAgent = "xxxxxxxx";
+
+$Cookie = "xxxxxxx";
